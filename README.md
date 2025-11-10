@@ -17,3 +17,11 @@
     </td>
   </tr>
 </table>
+# NOVEMBER
+<table>
+  <tr>
+    <td align="center">
+      <img width="1182" height="1406" alt="whatisrealfreedom" src="https://github.com/user-attachments/assets/0de04d6f-77f9-4303-8826-792e164bbec0" />
+    </td>
+  </tr>
+</table>
