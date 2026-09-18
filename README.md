@@ -1,4 +1,4 @@
-# OCTOBER
+# OCTOBER 2025
 <table>
   <tr>
     <td align="center">
@@ -18,11 +18,23 @@
   </tr>
 </table>
 
-# NOVEMBER
+# NOVEMBER 2025
 <table>
   <tr>
     <td align="center">
       <img width="1182" height="1406" alt="whatisrealfreedom" src="https://github.com/user-attachments/assets/0de04d6f-77f9-4303-8826-792e164bbec0" />
+    </td>
+  </tr>
+</table>
+
+# SEPTEMBER 2026
+<table>
+  <tr>
+    <td align="center">
+      <img width="1651" height="1032" alt="poster-bordered-30p" src="https://github.com/user-attachments/assets/6e381123-110e-403f-bafc-8538f048de7b" />
+    </td>
+    <td>
+      <img width="1000" height="1000" alt="logo-final" src="https://github.com/user-attachments/assets/325a2d52-37b3-4bcd-9c66-48408b827f49" />
     </td>
   </tr>
 </table>
