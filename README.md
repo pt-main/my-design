@@ -36,5 +36,11 @@
     <td>
       <img width="1000" height="1000" alt="logo-final" src="https://github.com/user-attachments/assets/325a2d52-37b3-4bcd-9c66-48408b827f49" />
     </td>
+    <td>
+      <img width="3840" height="2160" alt="Без имени" src="https://github.com/user-attachments/assets/49dc56d8-c00d-4c31-ad9c-be468299e3bf" />
+    </td>
+    <td>
+      <img width="2160" height="3840" alt="run4" src="https://github.com/user-attachments/assets/337718bf-f97a-4380-a8ac-0bc170018b8f" />
+    </td>
   </tr>
 </table>
