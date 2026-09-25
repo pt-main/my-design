@@ -36,6 +36,8 @@
     <td>
       <img width="1000" height="1000" alt="logo-final" src="https://github.com/user-attachments/assets/325a2d52-37b3-4bcd-9c66-48408b827f49" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img width="3840" height="2160" alt="Без имени" src="https://github.com/user-attachments/assets/49dc56d8-c00d-4c31-ad9c-be468299e3bf" />
     </td>
