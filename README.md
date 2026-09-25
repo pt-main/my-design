@@ -45,4 +45,9 @@
       <img width="2160" height="3840" alt="run4" src="https://github.com/user-attachments/assets/337718bf-f97a-4380-a8ac-0bc170018b8f" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="2160" height="3840" alt="theFuckingIndustrial" src="https://github.com/user-attachments/assets/46f9af9d-73cb-45f5-93b4-552a65f33669" />
+    </td>
+  </tr>
 </table>
